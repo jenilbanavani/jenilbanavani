@@ -1,141 +1,71 @@
-<div align="center">
+<h1 align="center">Jenil Banavani</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:111827,50:0f172a,100:1e293b&text=Jenil%20Banavani&fontColor=e2e8f0&fontSize=52&animation=fadeIn&fontAlignY=38"/>
+<p align="center">
+Software Developer • Open Source Contributor • BCA Student
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=CBD5E1&center=true&vCenter=true&width=850&lines=%E3%80%8CThe+best+plans+look+like+luck.%E3%80%8D;Developer+%7C+Chess+Player+%7C+Anime+Enjoyer;Open+Source+Contributor;Always+thinking+3+moves+ahead..."/>
-
-</div>
-
----
-
-# 🎩 About Me
-
-```cpp
-class Developer {
-public:
-
-    string name = "Jenil Banavani";
-
-    string alias = "The Shopkeeper";
-
-    vector<string> interests = {
-        "Open Source",
-        "Chess",
-        "Anime",
-        "Developer Tools",
-        "Online Games",
-        "AI"
-    };
-
-    string philosophy =
-    "Victory belongs to the one who prepared before the battle began.";
-};
-```
+<p align="center">
+<a href="https://github.com/jenilbanavani">
+<img src="https://komarev.com/ghpvc/?username=jenilbanavani&style=flat-square&color=7aa2f7"/>
+</a>
+</p>
 
 ---
 
-# ♟ Strategy Board
+### About
 
-```
-♔ Calculate before acting.
+I'm a BCA student from India who enjoys building useful software and contributing to open source.
 
-♞ Adapt when necessary.
+Currently interested in:
 
-♝ Every bug teaches something.
+- Open Source
+- AI & Developer Tools
+- FastAPI
+- React
+- Chess
 
-♜ Every project is another opening.
-
-♛ Build quietly.
-
-♙ Let the commits speak.
-```
+> *"Preparation decides the outcome long before the battle begins."*
 
 ---
 
-# ⚔ Current Quest
+### Tech Stack
 
-- 🧠 Contributing to Open Source
-- ⚡ Building AI Projects
-- 📚 Learning System Design
-- ♟ Becoming a stronger chess player
-- 🎮 Playing strategy & online games
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,js,nodejs,git,github,vscode,linux,mysql"/>
 
-# 🛠 Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,nodejs,ts,js,git,github,vscode,linux,mysql&theme=dark"/>
-
-</div>
+</p>
 
 ---
 
-# 📈 Battle Statistics
+### GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jenilbanavani&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jenilbanavani&theme=tokyonight&show_icons=true&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenilbanavani&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=jenilbanavani&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 📊 Activity Graph
+### Current Focus
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jenilbanavani&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🎮 Loadout
-
-| 🎩 Role | Developer |
-|----------|-----------|
-| ♟ Main Hobby | Chess |
-| 📺 Favorite Character | Kisuke Urahara |
-| 💻 IDE | VS Code |
-| 🌙 Theme | Tokyo Night |
-| ⚔ Current Rank | Always Improving |
+- Contributing to Open Source
+- Learning System Design
+- Building AI projects
+- Improving problem-solving skills
 
 ---
 
-# ♟ Favorite Opening
+### Connect
 
-```
-1. e4
-
-Think.
-Observe.
-Adapt.
-
-Winning isn't about making the perfect move.
-
-It's about making the right move
-after your opponent believes they've won.
-```
-
----
-
-<div align="center">
-
-## "Preparation beats talent when talent refuses to prepare."
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:334155&height=2"/>
-
-⭐ Thanks for visiting.
-
-</div>
+- GitHub: https://github.com/jenilbanavani
 
