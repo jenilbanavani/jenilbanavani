@@ -1,20 +1,14 @@
 <h1 align="center">Jenil Banavani</h1>
 
 <p align="center">
-Software Developer • Open Source Contributor • BCA Student
-</p>
-
-<p align="center">
-<a href="https://github.com/jenilbanavani">
-<img src="https://komarev.com/ghpvc/?username=jenilbanavani&style=flat-square&color=7aa2f7"/>
-</a>
+Software Developer • Open Source Contributor • Student
 </p>
 
 ---
 
 ### About
 
-I'm a BCA student from India who enjoys building useful software and contributing to open source.
+I'm a student from India who enjoys building useful software and contributing to open source.
 
 Currently interested in:
 
